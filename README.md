@@ -1,8 +1,8 @@
-# Price Watcher（プライス・ウォッチャー）
+# Price Watcher（プライス・ウォッチャー）のバックエンド
 
 ## 事前準備
 
-1. src/main/resources/application.propertiesで、メール転送を設定
+1. <code>src/main/resources/application.properties</code>で、メール転送を設定
 ```properties
 spring.mail.host=
 spring.mail.port=
